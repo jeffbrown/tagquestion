@@ -1,4 +1,4 @@
-package demo
+package notdemo
 
 class MyLibTagLib {
     static namespace="myLib"
